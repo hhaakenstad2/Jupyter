@@ -1,2 +1,2 @@
 # Jupyter
-conda install -c conda-forge jupyterlab
+pip install git+git://github.com/ipython/ipywidgets.git
